@@ -1,0 +1,21 @@
+body{
+    background-image: url("bg.jpg");
+}
+.first{
+    width: 100%;
+    height: 40%;
+    border:15px solid crimson;
+
+}
+.second{
+    
+    border:15px solid crimson;
+
+}
+video{
+    width: 50%;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: beige;
+}
